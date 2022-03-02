@@ -1,0 +1,31 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1,
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3,
+p,
+.list {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+* {
+    background: #ffffdd;
+}
+
+.border {
+    border: 5px solid #ffffff
+}
+
+.parent .list {
+    font-size: 12px;
+}
+
+.list {
+    font-size: 14px;
+}
